@@ -1,6 +1,6 @@
 Tic-tac-toe (A Classic turn based network game)
 
-#Name: Lian Ho Yeung
+#Name: Lian Ho Yeung<br/>
 #University number: 3035714260
 
 Some information about the game:<br/>
