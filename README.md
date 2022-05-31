@@ -4,9 +4,7 @@ Tic-tac-toe (A Classic turn based network game)
 #University number: 3035714260
 
 Some information about the game:
-
 Criteria for a valid move:
-
 -The move is not occuppied by any mark.<br/>
 -The move is made in the player's turn.<br/>
 -THe move is made within the 3 x 3 board.<br/>
