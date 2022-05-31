@@ -24,5 +24,5 @@ Step to start:
 
 Reamrks:
 
-*The server will accept connection only after the player inputted their name
+*The server will accept connection only after the player inputted their name<br/>
 *The player who inputted his/her name first will be the player to move first
