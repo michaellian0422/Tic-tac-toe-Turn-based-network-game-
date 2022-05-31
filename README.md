@@ -3,8 +3,8 @@ Tic-tac-toe (A Classic turn based network game)
 #Name: Lian Ho Yeung
 #University number: 3035714260
 
-Some information about the game:
-Criteria for a valid move:
+Some information about the game:<br/>
+Criteria for a valid move:<br/>
 -The move is not occuppied by any mark.<br/>
 -The move is made in the player's turn.<br/>
 -THe move is made within the 3 x 3 board.<br/>
