@@ -6,12 +6,19 @@ Tic-tac-toe (A Classic turn based network game)
 Some information about the game:
 
 Criteria for a valid move:
+
 -The move is not occuppied by any mark.
+
 -The move is made in the player's turn.
+
 -THe move is made within the 3 x 3 board.
+
 -The game would continue and switch among the opposite player until it reaches either one of the following conditions:
+
 -Player 1 wins.
+
 -Player 2 wins.
+
 -Draw.
 
 Step to start:
